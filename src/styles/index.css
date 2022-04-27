@@ -2,7 +2,7 @@
     display: flex;
     margin: auto;
     justify-content: center;
-    padding-top: 50px;
+    padding: 50px 10px 0px 10px;
 }
 
 .bigCounter div {
@@ -11,4 +11,12 @@
     background-color: black;
     color: white;
     padding: 10px;
+    border: solid rgba(255, 255, 255, 0.349);
+}
+
+button {
+    margin: 20px;
+    padding: 5px 20px;
+    background-color: black;
+    color: white;
 }
